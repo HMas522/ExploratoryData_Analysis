@@ -2,7 +2,7 @@
 
 ### Student Name: Hayley Massey
 
-### https://github.com/HMas522/Exploratory-Data-Analysis
+### https://github.com/HMas522/ExploratoryData_Analysis
 
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
