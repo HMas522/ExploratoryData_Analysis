@@ -168,3 +168,24 @@ Avoid: Shell Commands for Installs (Shell Commands use !)
 Don't use !pip install (with an exclamation instead of percent). 
 This is a shell command, which means it runs in the shell environment of the system where the Jupyter server is running. 
 While it can work, it might not install the package in the same environment that the notebook kernel is using, especially in environments with multiple Python installations or virtual environments.
+
+## Exploratory Data Analysis EDA
+
+### Objective 1
+Fetch data from API and write it to a CSV file
+
+![API code 1](API_code1.png)
+
+![API code 2](API_code2.png)
+
+### Object 4
+Display the data with graphs and visuals
+
+![Bar graph](bargraph11.png)
+
+![EDA match 11](EDA11.png)
+
+![Bar graph](bargraph13.png)
+
+![EDA match 11](EDA13.png)
+
